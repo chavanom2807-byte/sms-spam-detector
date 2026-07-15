@@ -1,2 +1,4 @@
-# sms-spam-detector
-sms-spam-detector
+tensorflow-cpu
+streamlit
+pandas
+scikit-learn
